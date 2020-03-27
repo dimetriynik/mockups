@@ -4,7 +4,7 @@
       "id": 1,
       "name": "test deal 1",
       "priority": "High",
-      "product": "test product 1",
+      "product": "Label Services",
       "territory": "test territory 1",
       "pipeline": "TODO"
     },
@@ -12,14 +12,14 @@
       "id": 2,
       "name": "test deal 2",
       "priority": "Normal",
-      "product": "test product 1",
+      "product": "Artist Services",
       "territory": "test territory 1",
       "pipeline": "Proposal"
     },
     {
       "id": 3,
       "name": "test deal 3",
-      "product": "test product 1",
+      "product": "Back Office",
       "priority": "Low",
       "territory": "test territory 1",
       "pipeline": "Forms Send"
@@ -27,7 +27,7 @@
     {
       "id": 4,
       "name": "test deal 4",
-      "product": "test product 1",
+      "product": "Label Services",
       "priority": "High",
       "territory": "test territory 1",
       "pipeline": "Forms Received"
@@ -35,7 +35,7 @@
     {
       "id": 5,
       "name": "test deal 5",
-      "product": "test product 1",
+      "product": "Artist Services",
       "priority": "Normal",
       "territory": "test territory 1",
       "pipeline": "Status 5"
@@ -43,7 +43,7 @@
     {
       "id": 6,
       "name": "test deal 6",
-      "product": "test product 1",
+      "product": "Back Office",
       "priority": "Normal",
       "territory": "test territory 1",
       "pipeline": "TODO"
