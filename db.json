@@ -1,0 +1,73 @@
+{
+	"deals": [
+    {
+      "id": 1,
+      "name": "test deal 1",
+      "product": "test product 1",
+      "territory": "test territory 1",
+      "pipeline": "TODO"
+    },
+    {
+      "id": 2,
+      "name": "test deal 2",
+      "product": "test product 1",
+      "territory": "test territory 1",
+      "pipeline": "Proposal"
+    },
+    {
+      "id": 3,
+      "name": "test deal 3",
+      "product": "test product 1",
+      "territory": "test territory 1",
+      "pipeline": "Forms Send"
+    },
+    {
+      "id": 4,
+      "name": "test deal 4",
+      "product": "test product 1",
+      "territory": "test territory 1",
+      "pipeline": "Forms Received"
+    },
+    {
+      "id": 5,
+      "name": "test deal 5",
+      "product": "test product 1",
+      "territory": "test territory 1",
+      "pipeline": "Status 5"
+    },
+    {
+      "id": 6,
+      "name": "test deal 6",
+      "product": "test product 1",
+      "territory": "test territory 1",
+      "pipeline": "TODO"
+    }
+  ],
+	"pipelines":[
+		    {
+      "id": 1,
+      "position": 1,
+      "stage": "TODO"
+    },
+    {
+      "id": 2,
+      "position": 2,
+      "stage": "Proposal"
+    },
+    {
+      "id": 3,
+      "position": 3,
+      "stage": "Forms Send"
+    },
+    {
+      "id": 4,
+      "position": 4,
+      "stage": "Forms Received"
+    },
+    {
+      "id": 5,
+      "position": 5,
+      "stage": "Status 5"
+    }
+	]
+}
